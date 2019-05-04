@@ -1,0 +1,14 @@
+{
+  "clientID": "574243613001646121",
+  "token": "NTc0MjQzNjEzMDAxNjQ2MTIx.XM2nXw.NQW1GEYDsYfPwuZ6gR2dNgxJiSA",
+
+  "language": "en",
+  "prefix": "!",
+  "acceptedExtensions": [".mp3", ".wav"],
+  "maximumFileSize": 1000000,
+  "volume": 1.0,
+  "deleteMessages": false,
+  "stayInChannel": false,
+  "deafen": false,
+  "game": ""
+}
